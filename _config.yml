@@ -1,0 +1,28 @@
+name: UjimaBoston
+favicon: null
+layout_spectrum: 0.8475753942038864
+typography_spectrum: 0.6821763420011848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6142997993156314
+  lightness: 0.08086752891540527
+  saturation: 0.6588826503138989
+  rhythmicContrast: 0.636499110609293
+purpose: []
