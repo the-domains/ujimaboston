@@ -4,16 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: |
-  Boston Ujima Project: Our Work, Our Community, Our Economy
-datePublished: '2016-07-04T20:59:30.502Z'
-dateModified: '2016-07-04T20:59:30.056Z'
+description: 'OUR WORK, OUR COMMUNITY, OUR ECONOMY '
+datePublished: '2016-07-04T21:00:19.017Z'
+dateModified: '2016-07-04T21:00:18.719Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-04-boston-ujima-project-our-work-our-community-our-economy.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-04-boston-ujima-project-our-work-our-community-our-economy.md
 url: boston-ujima-project-our-work-our-community-our-economy/index.html
 _type: Article
 
@@ -24,5 +23,4 @@ THE BOSTON UJIMA PROJECT is organizing neighbors, workers, business owners and i
 
 UJIMA (oo‐JEE‐mah) is a Swahili word, the celebrated Kwanzaa principle for "collective work and responsibility." Ujima inspires us to take responsibility for our communities, to see our neighbor's problems as our own, and to build collective power to solve them together. 
 
-The Ujima Project demonstrates new ways to invest, work, buy, own, and advocate. We are driven by a
-belief that another world possible, and that we can help build it today.
+The Ujima Project demonstrates new ways to invest, work, buy, own, and advocate. We are driven by a belief that another world possible, and that we can help build it today.
