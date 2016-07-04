@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Boston Ujima Project]]></title>
         <description><![CDATA[Boston Ujima Project]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ujimaboston/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 20:59:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 21:00:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ujimaboston/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>OUR WORK, OUR COMMUNITY, OUR ECONOMY </p>]]></description>
-            <link>undefinedboston-ujima-project-our-work-our-community-our-economy/index.html</link>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<p>OUR WORK, OUR COMMUNITY, OUR ECONOMY </p>]]></description>
+            <link>https://thegrid.ai/ujimaboston/boston-ujima-project-our-work-our-community-our-economy/index.html</link>
             <guid isPermaLink="false">a64dd7b6-dc47-4a4d-be7c-b820707a93e8</guid>
-            <pubDate>Mon, 04 Jul 2016 20:59:30 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2016 21:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
